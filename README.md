@@ -39,6 +39,6 @@ The system's intelligence is in the Arduino code, which handles communication ti
 
 ## 📁 Project Files
 
-* **Full Report:** [Link to Documentation/Report with Physical Setup.pdf](Documentation/Report with Physical Setup.pdf)
+* **Full Report:** [Download Full Report (PDF)](Documentation/Report with Physical Setup.pdf)
 * **Schematics:** [Receiver Schematic](Hardware/receiver.png) and [Transmitter Schematic](Hardware/transmitter.png)
-* **Code:** [Arduino files in Software folder](Software/)
+* **Code:** [Arduino Source Files](Software/)
