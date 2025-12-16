@@ -40,5 +40,5 @@ The system's intelligence is in the Arduino code, which handles communication ti
 ## 📁 Project Files
 
 * **Full Report:** [Download Full Report (PDF)](Documentation/Report with Physical Setup.pdf)
-* **Schematics:** [[Receiver Schematic](https://github.com/jonathanyaron/FSO_Digital_Communication/blob/main/receiver.png)](Hardware/receiver.png) and [Transmitter Schematic](Hardware/transmitter.png)
+* **Schematics:** [[Receiver Schematic](https://github.com/jonathanyaron/FSO_Digital_Communication/blob/main/receiver.png)](Hardware/receiver.png) and [[Transmitter Schematic](https://github.com/jonathanyaron/FSO_Digital_Communication/blob/main/transmitter.png.png)](Hardware/transmitter.png)
 * **Code:** [[Arduino Source Files](https://github.com/jonathanyaron/FSO_Digital_Communication/blob/main/transmitter_nov21a.ino)](SRC/)
